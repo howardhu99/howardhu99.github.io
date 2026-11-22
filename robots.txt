@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://howardhu99.github.io/sitemap.xml
